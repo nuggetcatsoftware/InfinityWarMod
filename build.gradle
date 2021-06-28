@@ -120,8 +120,8 @@ dependencies {
     minecraft 'net.minecraftforge:forge:1.16.5-36.1.32'
     minecraft 'net.minecraftforge:forge:1.16.5-36.1.32'
     compile fg.deobf('curse.maven:obfuscate-289380:3169370')
-    compile fg..deobf('curse.maven:mrcrayfish-gun-mod-289479:3203497')
-    copile fg.deobf('curse.maven:configured-457570:3244520')
+    compile fg.deobf('curse.maven:mrcrayfish-gun-mod-289479:3203497')
+    compile fg.deobf('curse.maven:configured-457570:3244520')
     // You may put jars on which you depend on in ./libs or you may define them like so..
     // compile "some.group:artifact:version:classifier"
     // compile "some.group:artifact:version"
